@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**rsolanoweb/rsolanoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rubén and I have been a developer since I can remember.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on Dekalabs</li>
+        <li>🌱 I’m Software Engineer with 3 years of experience</li>
+        <li>🏄🏽‍♂️ I like to write code but also enjoy life</li>
+        <li>❤️‍🔥 I'm not the best, but I do everything with passion</li>
+        <li>💚 I like the green of Django and Vue</li>
+      </ul>
+    </td>
+    <td><img src="https://media2.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif"></td>
+  </tr>
+</table>
