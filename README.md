@@ -1,6 +1,5 @@
 <table>
   <tr>
-    <td><img width="250" src="https://media0.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif"></td>
     <td>
       <h1>Hi there 👋</h1>
       <p>My name is Rubén and I have been a developer since I can remember.</p>
@@ -13,5 +12,6 @@
         <li>🐍 I like the green of Django and Vue</li>
       </ul>
     </td>
+    <td><img width="345" src="https://media0.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif"></td>
   </tr>
 </table>
