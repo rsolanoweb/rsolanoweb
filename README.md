@@ -14,6 +14,6 @@ My name is Rubén and I have been a developer since I can remember.
         <li>🐍 I like the green of Django and Vue</li>
       </ul>
     </td>
-    <td><img src="https://media2.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif"></td>
+    <td><img src="https://media0.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif"></td>
   </tr>
 </table>
