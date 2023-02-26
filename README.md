@@ -1,10 +1,8 @@
-### Hi there 👋
-
-My name is Rubén and I have been a developer since I can remember.
-
 <table>
   <tr>
     <td>
+      <h1>Hi there 👋</h1>
+      <p>My name is Rubén and I have been a developer since I can remember.</p>
       <ul>
         <li>🔭 I’m currently working on Dekalabs</li>
         <li>👨🏽‍💻 I’m Software Engineer</li>
